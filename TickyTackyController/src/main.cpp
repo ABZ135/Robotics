@@ -19,7 +19,7 @@ motor intakeLeft(PORT11, gearSetting::ratio18_1, true);
 motor intakeRight(PORT1, gearSetting::ratio18_1, true);
 //testing comment testing
 motor lift(PORT18, gearSetting::ratio18_1, true);
-
+//testing comment no.2
 
 vision frontView(vex::PORT1);
 bool canSpin = false;
